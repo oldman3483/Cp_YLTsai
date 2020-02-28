@@ -1,4 +1,4 @@
-# Cp_YLTsai 
+# CP_YLTsai 
 Prof. Tsai Yen Lung Computer programming course online in 10802 NCCU
 
 Every Course will be on yt.
